@@ -78,5 +78,6 @@ public class encapsulation_1 {
 
 
 // Create a class Employee with name, employeeId, and salary as private fields.
+//Implement getter methods to display name, employeeId, and salary.
 // Implement setter validation (salary cannot be negative).
 // Provide a method increaseSalary(double amount).
