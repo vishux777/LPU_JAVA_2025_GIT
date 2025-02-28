@@ -20,9 +20,26 @@ public class strings_1 {
         // System.out.println(s4.charAt(6));
         // System.out.println(s4.equals(s5));
 
-        String s6 = s4.concat(s5);
-        System.out.println(s6);
-    
+
+
+        // System.out.println(s4.substring(3, 7));
+
+        // System.out.println(s4.replace("World", "JAVA"));
+
+        // String s6 = "JAVA,Python,C++";
+        
+        // String[] ans = s6.split(",");
+
+        // for(String i : ans){
+        //     System.out.println(i);
+        // }
+
+
+
+        int a = 123;
+
+        String ans = String.valueOf(a);
+        System.out.println(ans);
 
     }
 }
