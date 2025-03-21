@@ -7,7 +7,7 @@
 class Car{
     final int speed;
 
-    static final int maxSpeed = 500;
+    // static final int maxSpeed = 500;
 
     Car(int speed){
         this.speed = speed;
