@@ -1,0 +1,1 @@
+rame.setDefaultCloseOperation(JFrame.EXIT_ON_CL
